@@ -47,7 +47,7 @@ const About = () => {
         </motion.div>
 
         <motion.p
-          variants={fadeIn("", "", 0.1, 1)}
+          variants={fadeIn("", "", 0.1, 0.1)}
           className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
         Much like a young Padawan emerging from the Jedi Temple,
@@ -61,7 +61,7 @@ const About = () => {
         with creative and impactful solutions.
       </motion.p>
 
-      <div className='mt-20 flex flex-wrap gap-10'>
+      <div className='mt-20 flex flex-wrap gap-1'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
