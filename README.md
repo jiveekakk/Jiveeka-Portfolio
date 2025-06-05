@@ -54,9 +54,9 @@ src/
 
 Want to collaborate or just say hi? Reach out!
 
-- 📧 Email: [your.email@example.com](mailto:your.jiveekakk@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/jiveeka-kuwar-kanaye-4560b2267)
-- 🐙 GitHub: [github.com/yourusername](https://github.com/jiveekakk)
+- 📧 Email: [jiveekakk@gmail.com](mailto:your.jiveekakk@example.com)
+- 💼 LinkedIn: [linkedin.com/jiveekakk](www.linkedin.com/in/jiveeka-kuwar-kanaye-4560b2267)
+- 🐙 GitHub: [github.com/jiveekakk](https://github.com/jiveekakk)
 
 ---
 
