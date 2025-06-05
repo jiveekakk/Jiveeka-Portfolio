@@ -3,22 +3,19 @@ import {
   backend,
   creator,
   web,
-  
+  portfolio,
   javascript,
   typescript,
   html,
   css,
+  webscraper,
   reactjs,
   tailwind,
   nodejs,
   mongodb,
   git,
+  pharmacy,
   threejs,
-
-  carrent,
-  jobit,
-  tripguide,
-  
   python,
   java,
   spring,
@@ -170,7 +167,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: carrent,
+    image: webscraper,
     source_code_link: "https://github.com/",
   },
   {
@@ -195,7 +192,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: jobit,
+    image: portfolio,
     source_code_link: "https://github.com/",
   },
   {
@@ -220,7 +217,7 @@ const projects = [
         color: "orange-text-gradient",
       },
     ],
-    image: tripguide,
+    image: pharmacy,
     source_code_link: "https://github.com/",
   },
 ];

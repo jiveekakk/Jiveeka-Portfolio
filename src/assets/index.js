@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import wars from "./wars.gif";
 
 import css from "./tech/css.png";
 import python from "./tech/python.png";
@@ -24,18 +25,22 @@ import threejs from "./tech/threejs.svg";
 import richfield from "./company/richfield.png";
 import simple from "./company/simple.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import portfolio from "./portfolio.png";
+import pharmacy from "./pharmacy.png";
+import webscraper from "./webscraper.png";
 
 export {
   logo,
+  portfolio,
   simple,
   backend,
   creator,
   mobile,
   web,
   github,
+  webscraper,
+  wars,
+  pharmacy,
   menu,
   close,
   css,
@@ -48,9 +53,6 @@ export {
   tailwind,
   typescript,
   threejs,
-  carrent,
-  jobit,
-  tripguide,
   python,
   java,
   spring,
