@@ -15,10 +15,10 @@ const Hero = () => {
         </div>
 
         <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi there! I'm <span className='text-[#915EFF]'>Jiveeka</span>
+          <h1 className={`font-starwars ${styles.heroHeadText} text-white`}>
+            Hi there! I'm <span className='font-starwars text-[#915EFF]'>Jiveeka</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+          <p className={`font-starwars ${styles.heroSubText} mt-2 text-white-100`}>
             May the code be with you... always <br className='sm:block hidden' />
           </p>
         </div>

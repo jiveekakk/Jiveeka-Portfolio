@@ -43,19 +43,22 @@ const About = () => {
       
         <motion.div variants={textVariant()}>
           <p className={styles.sectionSubText}>Introduction</p>
-          <h2 className={styles.sectionHeadText}>Overview.</h2>
+          <h2 className={`font-starwars ${styles.sectionHeadText}`}>About me.</h2>
         </motion.div>
 
         <motion.p
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-        Hey there! I'm a passionate tech enthusiast driven by curiosity and the thrill of innovation.
-        Whether it's diving into new programming languages, exploring the latest in AI, or building smart,
-        user-focused solutions, I love staying on the edge of what's next. 
-        I'm a fast learner who thrives in dynamic environments and believes that growth comes from both 
-        challenges and collaboration. If there’s a problem to solve, I’m already sketching the blueprint. 
-        Let’s code the future.
+        Much like a young Padawan emerging from the Jedi Temple,
+        I’ve been sharpening my skills in software development through my BSc in IT
+        studies and hands-on internship experiences. 
+        My training has equipped me with the foundational knowledge and real-world 
+        exposure to navigate the galaxy of modern tech. My journey into the world of technology began with a spark—my
+        first line of code. It was as if I had just discovered my connection
+        to the Force. Since then, I've been driven by a passion to use technology
+        not just as a tool, but as a way to bring balance—solving real problems
+        with creative and impactful solutions.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

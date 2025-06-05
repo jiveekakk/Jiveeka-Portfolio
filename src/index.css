@@ -19,6 +19,14 @@
   display: block;
 }
 
+@font-face {
+  font-family: 'StarJedi';
+  src: url('./assets/fonts/StarJedi.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
 .black-gradient {
   background: #000000; /* fallback for old browsers */
   background: -webkit-linear-gradient(
